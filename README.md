@@ -1,4 +1,11 @@
 # Web Scraping com Python
+![Python](https://img.shields.io/badge/Python-Backend%20Development-3776AB?style=flat-square&logo=python)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-232F3E?style=flat-square&logo=python)
+![Requests](https://img.shields.io/badge/Requests-HTTP%20Requests-FF4F00?style=flat-square&logo=requests)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-150458?style=flat-square&logo=pandas)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-DA5B5B?style=flat-square&logo=jupyter)
+![HTML](https://img.shields.io/badge/HTML-Web%20Markup-F7B500?style=flat-square&logo=html5)
+
 
 ## Descrição
 
